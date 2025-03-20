@@ -1,0 +1,6 @@
+[submodule "apps/guzlik.ru"]
+	path = apps/guzlik.ru
+	url = https://github.com/SerejaCrystalys/guzlik.ru
+[submodule "apps/three.guzlik.ru"]
+	path = apps/three.guzlik.ru
+	url = https://github.com/SerejaCrystalys/three.guzlik.ru
